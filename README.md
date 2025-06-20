@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zeru Restaking Info API
 
 This project implements a RESTful API that aggregates and exposes restaking data from EigenLayer. It provides user restaking activity, validator metadata, and reward insights through clean and structured endpoints.
@@ -70,3 +71,6 @@ zeru-restaking-api/
 ├── routes/
 ├── data/
 │   └── mockSeeder.js
+=======
+# restake-vision-api
+>>>>>>> fd60c91b238b71dd274e7bfb3cd493f3de669e3d
